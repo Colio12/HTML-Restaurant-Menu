@@ -85,7 +85,7 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
-
+/*Added to take away bullet points from list*/
 ul {
     list-style-type: none;
     text-align: center;
